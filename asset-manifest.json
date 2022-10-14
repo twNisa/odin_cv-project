@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/odin_cv_project/static/css/main.d38d0b39.css",
-    "main.js": "/odin_cv_project/static/js/main.f5815be2.js",
-    "static/js/498.074da4f5.chunk.js": "/odin_cv_project/static/js/498.074da4f5.chunk.js",
-    "static/js/703.5e447590.chunk.js": "/odin_cv_project/static/js/703.5e447590.chunk.js",
-    "static/js/560.0108dfcb.chunk.js": "/odin_cv_project/static/js/560.0108dfcb.chunk.js",
-    "static/media/phone.svg": "/odin_cv_project/static/media/phone.73096867ac7d57d91b558dbffb848512.svg",
-    "static/media/linkedIn.svg": "/odin_cv_project/static/media/linkedIn.9260efc323f5cd93384a5972d87e1f7b.svg",
-    "static/media/github.svg": "/odin_cv_project/static/media/github.8bcf1c62103ea88a9cfd647a4b02f614.svg",
-    "index.html": "/odin_cv_project/index.html",
-    "static/media/email.svg": "/odin_cv_project/static/media/email.2a92f20250dd371595abedf330bcbef8.svg",
-    "main.d38d0b39.css.map": "/odin_cv_project/static/css/main.d38d0b39.css.map",
-    "main.f5815be2.js.map": "/odin_cv_project/static/js/main.f5815be2.js.map",
-    "498.074da4f5.chunk.js.map": "/odin_cv_project/static/js/498.074da4f5.chunk.js.map",
-    "703.5e447590.chunk.js.map": "/odin_cv_project/static/js/703.5e447590.chunk.js.map",
-    "560.0108dfcb.chunk.js.map": "/odin_cv_project/static/js/560.0108dfcb.chunk.js.map"
+    "main.css": "/odin_cv-project/static/css/main.d38d0b39.css",
+    "main.js": "/odin_cv-project/static/js/main.ff188298.js",
+    "static/js/498.074da4f5.chunk.js": "/odin_cv-project/static/js/498.074da4f5.chunk.js",
+    "static/js/703.5e447590.chunk.js": "/odin_cv-project/static/js/703.5e447590.chunk.js",
+    "static/js/560.0108dfcb.chunk.js": "/odin_cv-project/static/js/560.0108dfcb.chunk.js",
+    "static/media/phone.svg": "/odin_cv-project/static/media/phone.73096867ac7d57d91b558dbffb848512.svg",
+    "static/media/linkedIn.svg": "/odin_cv-project/static/media/linkedIn.9260efc323f5cd93384a5972d87e1f7b.svg",
+    "static/media/github.svg": "/odin_cv-project/static/media/github.8bcf1c62103ea88a9cfd647a4b02f614.svg",
+    "index.html": "/odin_cv-project/index.html",
+    "static/media/email.svg": "/odin_cv-project/static/media/email.2a92f20250dd371595abedf330bcbef8.svg",
+    "main.d38d0b39.css.map": "/odin_cv-project/static/css/main.d38d0b39.css.map",
+    "main.ff188298.js.map": "/odin_cv-project/static/js/main.ff188298.js.map",
+    "498.074da4f5.chunk.js.map": "/odin_cv-project/static/js/498.074da4f5.chunk.js.map",
+    "703.5e447590.chunk.js.map": "/odin_cv-project/static/js/703.5e447590.chunk.js.map",
+    "560.0108dfcb.chunk.js.map": "/odin_cv-project/static/js/560.0108dfcb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d38d0b39.css",
-    "static/js/main.f5815be2.js"
+    "static/js/main.ff188298.js"
   ]
 }
