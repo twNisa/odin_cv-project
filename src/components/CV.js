@@ -6,6 +6,7 @@ import SkillsForm from "./SkillsForm";
 import { nanoid } from "nanoid";
 import Header from "./Header"
 import CVBuild from "./cvBuild/CVBuild";
+import JsPDF from "jspdf";
 
 export default function CV(){
 
@@ -198,6 +199,11 @@ export default function CV(){
     setPreview(prev => !prev)
   }
 
+  function generatePDF(){
+    const pdf = new JsPDF("portrait", "mm", "a4")
+    pdf.html(document.querySelector(".CV"))
+        .then(()=>{pdf.save("cv.pdf")})
+  }
   
 
   const form = (
@@ -236,7 +242,7 @@ export default function CV(){
  
   return(
     <div className="container">
-      <Header onClick={previewClick} preview={preview} />
+      <Header onClick={previewClick} preview={preview} pdf={generatePDF} />
       {preview ? cvBuild : form}
     </div>
   )

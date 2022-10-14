@@ -110,14 +110,10 @@ h2{
 }
 .links .link-logo{
   margin-right: .5rem;
-  /* filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(5deg) brightness(100%) contrast(103%); */
-  fill:red;
   width: 20px;
   /* height: ; */
 }
-/* .links-logo svg{
-  fill:red;
-} */
+
 .main{
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -258,3 +254,6 @@ h2{
 
 } */
 
+@media print{
+   header{display: none;}
+}

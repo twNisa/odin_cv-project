@@ -22,7 +22,6 @@ export default function CVbuild({cv}){
     },
   
   }
-  console.log(cv)
   
   return (
     <div className="CV">
