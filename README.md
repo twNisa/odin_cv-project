@@ -10,6 +10,9 @@ Tech used in this project:
 
 Used the resume design from Volodymyr at https://www.figma.com/community/file/1069394236673096165
 
+![Alt text](/screenshot.png "Optional Title")
+
+
 # Things to add for future
 - form validation
 - functionality to print as pdf using jsPDF
