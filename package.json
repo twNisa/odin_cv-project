@@ -2,7 +2,7 @@
   "name": "cv-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://twnisa.github.io/odin_cv_project/",
+  "homepage": "https://twnisa.github.io/odin_cv-project/",
 
   "dependencies": {
     "@emotion/react": "^11.10.4",

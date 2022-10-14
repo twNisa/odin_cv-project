@@ -1,7 +1,7 @@
 # odin_cv_creator
 A CV creator web app that allows users to make their own resume.
 
-https://twnisa.github.io/odin_cv_project/
+https://twnisa.github.io/odin_cv-project/
 
 Tech used in this project:
   - Javascript
